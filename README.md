@@ -19,5 +19,4 @@ Estudar a distribuição de bolsas do **PROUNI** entre 2005 e 2019, analisando p
 **Conteúdo deste repositório:**  
 - Arquivos SQL utilizados  
 - Bases secundárias utilizadas
-- Arquivo do Power BI
 - Arquivo de texto com motivações, lições aprendidas e conclusões
