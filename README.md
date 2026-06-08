@@ -142,7 +142,7 @@ Além disso, a integração de indicadores econômicos possibilitou investigar a
  
 ---
 
-##Conteúdo deste repositório: 
+## Conteúdo deste repositório: 
 - Arquivos SQL utilizados.  
 - Bases secundárias utilizadas.
 - Arquivo de texto com motivações, lições aprendidas e conclusões.
