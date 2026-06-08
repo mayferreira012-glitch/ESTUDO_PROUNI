@@ -40,7 +40,7 @@ DW --> PBI[Power BI]
 
 | Fonte | Descrição |
 |---------|------------|
-| [PROUNI] (https://www.kaggle.com/lfarhat/brasil-students-scholarship-prouni-20052019) | Bolsas concedidas entre 2005 e 2019 |
+|[PROUNI (Kaggle)](https://www.kaggle.com/lfarhat/brasil-students-scholarship-prouni-20052019) | Bolsas concedidas entre 2005 e 2019 |
 | IBGE | PIB dos municípios |
 | IBGE | Dados populacionais |
 | IBGE | Dados de raça |
@@ -136,24 +136,13 @@ Além disso, a integração de indicadores econômicos possibilitou investigar a
 
 ---
 
-## Exemplos de Dashboards
+## Dashboard
 
-### Dashboard Estratégico
-
-![Dashboard Estratégico](images/dashboard_estrategico.png)
-
-### Dashboard Analítico
-
-![Dashboard Analítico](images/dashboard_analitico.png)
-
-### Dashboard Operacional
-
-![Dashboard Operacional](images/dashboard_operacional.png)
-
-**Acesso ao dashboard:**  
 - [Dashboard - PROUNI](https://bit.ly/4qMcImL)
+ 
+---
 
-**Conteúdo deste repositório:**  
+##Conteúdo deste repositório: 
 - Arquivos SQL utilizados.  
 - Bases secundárias utilizadas.
 - Arquivo de texto com motivações, lições aprendidas e conclusões.
